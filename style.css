@@ -1,0 +1,40 @@
+#logo{
+  border-radius: 50%;
+}
+
+ body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+    'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.heading {
+  position: absolute;
+  text-align: center;
+  top: 30%;
+  width: 100%;
+}
+.heading h1 {
+  color: black
+  font-size: 70px;
+}
+.heading h3 {
+  color: black
+  font-size: 20px;
+}
+#particles-js { 
+  background: white
+  height: 100vh;
+}
+
+#proj a
+{
+  color: black;
+  text-decoration: none;
+
+}
+#proj a:hover{
+  color: blue;
+}
+
+
